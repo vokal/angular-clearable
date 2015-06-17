@@ -1,0 +1,23 @@
+{
+  "name": "angular-clearable",
+  "homepage": "https://github.com/vokal/angular-clearable",
+  "authors": [
+    {
+      "name": "Vokal",
+      "email": "webdevelopers@vokal.io"
+    }
+  ],
+  "description": "Angular directive for adding a clear affordance to input fields",
+  "license": "MIT",
+  "main": "src/clearable.js",
+  "dependencies": {
+    "fontawesome": "^4.3.0"
+  },
+  "devDependencies": {
+    "angular": "1.x"
+  },
+  "ignore": [
+    "grunt/",
+    "spec/"
+  ]
+}
